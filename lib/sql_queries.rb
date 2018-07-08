@@ -3,11 +3,7 @@ def selects_all_female_bears_return_name_and_age
 end
 
 def selects_all_bears_names_and_orders_in_alphabetical_order
-  INSERT INTO bears VALUES (1,"Mr. Chocolate", 55, "M", "Black", "Salty", 0);
-INSERT INTO bears VALUES (2,"Rowdy", 43, "M", "Golden", "Stuffed", 0);
-INSERT INTO bears VALUES (3,"Tabitha", 3, "F", "dark brown", "annoyting", 1);
-INSERT INTO bears VALU
-
+  
 end
 
 def selects_all_bears_names_and_ages_that_are_alive_and_order_youngest_to_oldest
